@@ -9,11 +9,10 @@
 ## 🏅 Certifications
 - **SQL and Relational Databases 101**
 *Certificate ID:* 6c8c607c044147038ad4b516712bdcbd
-- **Become an OCI Foundations Associate (2025)**
-  - Issued by: Oracle
-  ![Uploading Become An OCI Foundations Associate (2025).png…]()
-
-
+### ✅ Become An OCI Foundations Associate (2025)
+Issued by Oracle University  
+![OCI Foundations Associate 2025](oci-certificate-2025.png)
+ 
 ## 🛠 Skillsets
 - SQL (Basics & Queries)
 - Database Management Concepts
