@@ -1,15 +1,19 @@
 ## Hi there 👋
+# Ralph Renz M. Justo
+**2nd Year BS Information Technology Student**
 
-**ralphrenzjusto/ralphrenzjusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 Education
+- **College:** New Era University
+- **Senior High School:** Christ Achievers Montessori
 
-Here are some ideas to get you started:
+## 🏅 Certifications
+- **SQL and Relational Databases 101**
+*Certificate ID:* 6c8c607c044147038ad4b516712bdcbd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skillsets
+- SQL (Basics & Queries)
+- Database Management Concepts
+- Programming Fundamentals
+- Problem-Solving & Logic Building
+- Git / GitHub (Basic Version Control)
+
