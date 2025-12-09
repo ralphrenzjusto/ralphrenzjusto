@@ -1,4 +1,3 @@
-<img width="695" height="456" alt="image" src="https://github.com/user-attachments/assets/bb8c41c1-c6c2-477b-9bc8-0c075f5b2b72" />## Hi there 👋
 # Ralph Renz M. Justo
 **2nd Year BS Information Technology Student**
 
