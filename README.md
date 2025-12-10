@@ -12,7 +12,7 @@
 <img width="150" height="150" alt="OCI Badge" src="https://github.com/user-attachments/assets/9e786f7b-e3ad-4d96-bd7d-4ecaab37a105" />
 
 **Certificate Link:**  
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=C478EC00D4AC27B70C87AD50F01AB4F8B918F30696F8B7CC2674385C6D539F08u
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=C478EC00D4AC27B70C87AD50F01AB4F8B918F30696F8B7CC2674385C6D539F08
 
 ## 🛠 Skillsets
 - SQL (Basics & Queries)
