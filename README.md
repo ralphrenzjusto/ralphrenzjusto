@@ -12,7 +12,10 @@
 ## 🏅 Certifications
 
 ### SQL and Relational Databases 101
-Certificate ID: **6c8c607c044147038ad4b516712bdcbd**
+
+**Certificate Link:** 
+
+https://sn-portals-cognitiveclass.s3.us-south.cloud-object-storage.appdomain.cloud/7082s6msjb67anp244mcdbx54t4s
 
 ### Become an OCI Foundations Associate (2025)
 <img width="300" height="300" alt="OCI25FNDCFAV1" src="https://github.com/user-attachments/assets/09d540d1-7102-4300-8948-d556b782412a" />
