@@ -29,6 +29,11 @@
  
 🔗 **Certificate:** https://catalog-education.oracle.com/ords/certview/sharebadge?id=E7665D5155803C4E69EBD8878837AA4DC5472C1E5F51FC981EB8A65B9E6D6856
 
+### Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+<img width="260" alt="OCI25AICFAV1" src="https://github.com/user-attachments/assets/d6503c22-9196-428b-a726-0b29c33548d0" />
+
+🔗 **Certificate:** https://catalog-education.oracle.com/ords/certview/sharebadge?id=F140A549270B16342408BC42B689C9178222E686C641D048BB06536239301625
+
 ---
 
 ## 🛠 Skill Sets
